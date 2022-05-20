@@ -1,0 +1,3 @@
+tarjeta : A9 2A A7 99
+llavero : B9 4F 98 98
+
